@@ -15,7 +15,6 @@ public class Main_B_2630_색종이만들기 {
 
 	static int N, white, blue;
 	static int[][] paper;
-	static boolean[][] cut;
 	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -23,9 +22,6 @@ public class Main_B_2630_색종이만들기 {
 		N = Integer.parseInt(br.readLine());
 		
 		paper = new int[N][N];
-		cut = new boolean[N][N];
-		for(int i=0; i<N; i++)
-			Arrays.fill(cut[i], true);
 		
 		for(int i=0; i<N; i++) {
 			st = new StringTokenizer(br.readLine()," ");
