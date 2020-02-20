@@ -1,3 +1,10 @@
+/**
+*
+* 122456 KB
+* 600 ms
+*
+*/
+
 import java.awt.Point;
 import java.io.BufferedReader;
 import java.io.IOException;
