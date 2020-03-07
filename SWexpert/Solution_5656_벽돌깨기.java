@@ -31,7 +31,7 @@ public class Solution_5656_벽돌깨기 {
 			H = Integer.parseInt(st.nextToken());	// 행
 			wall = new int[H][W];
 			temp_wall = new int[H][W];		// 조합할때마다 초기화 필요
-			visited = new boolean[H][W];	// 벽 부셔졌는지 확인
+			visited = new boolean[H][W];		// 벽 부셔졌는지 확인
 
 			for(int i=0; i<H; i++) {
 				st = new StringTokenizer(br.readLine(), " ");
@@ -126,18 +126,17 @@ public class Solution_5656_벽돌깨기 {
 			
 			// 벽돌 내리기
 			for(int j = W-1; j>=0; j--) {
-	            for(int i=H-1; i>=0; i--) {
-	                if(temp_wall[i][j] == 0) {
-	                    for(int anx = i-1; anx>=0; anx--) {
-	                        if(temp_wall[anx][j] == 0) continue;
-	                        temp_wall[i][j] = temp_wall[anx][j];
-	                        temp_wall[anx][j] = 0;
-	                        break;
-	                    }
-	                }
-	            }
-	        }
-			
+	            		for(int i=H-1; i>=0; i--) {
+	                		if(temp_wall[i][j] == 0) {
+	                    			for(int anx = i-1; anx>=0; anx--) {
+	                        			if(temp_wall[anx][j] == 0) continue;
+	                        			temp_wall[i][j] = temp_wall[anx][j];
+	                        			temp_wall[anx][j] = 0;
+	                        			break;
+	                    			}
+	                		}
+	            		}
+	        	}
 		}
 	}	
 	
