@@ -42,9 +42,8 @@ public class Solution_D4_7194_화섭이의미생물배양 {
 		int temp_multi;	// temp 나누기 위해서
 		int gap;	// 남은 미생물 수
 		
-		if(b==1) {
-			if((end-start)%a==0) ans=(end-start)/a;
-			
+		if(b==1) { // b가 1인경우 무한루프
+			if((end-start)%a==0) ans=(end-start)/a;			
 			return;
 		}
 		
