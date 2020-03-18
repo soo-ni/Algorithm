@@ -3,6 +3,8 @@
 ### 0318  
 * Retry G4 2580 스도쿠 https://www.acmicpc.net/problem/2580  
 * Retry G4 15684 사다리조작 https://www.acmicpc.net/problem/15684  
+* G5 15686 치킨배달 https://www.acmicpc.net/problem/15686  
+* S1 3190 뱀 https://www.acmicpc.net/problem/3190  
 ---
 ### 0317  
 * G4 15684 사다리조작 https://www.acmicpc.net/problem/15684  
