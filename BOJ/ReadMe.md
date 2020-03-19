@@ -24,4 +24,4 @@
 * S1 1697 숨바꼭질 https://www.acmicpc.net/problem/1697  
 * G4 13913 숨바꼭질4 https://www.acmicpc.net/problem/13913  
 * S3 14889 스타트와링크 https://www.acmicpc.net/problem/14889  
-* 퇴사
+* S4 14501 퇴사 https://www.acmicpc.net/problem/14501  
