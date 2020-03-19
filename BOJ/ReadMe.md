@@ -16,3 +16,12 @@
 * G5 1753 최단경로 https://www.acmicpc.net/problem/1753  
 * Retry G5 15683 감시 https://www.acmicpc.net/problem/15683  
 * G4 1976 여행가자 https://www.acmicpc.net/problem/1976<br>* using BFS, DisjointSet  
+---
+### 0210-0216  
+* G5 2589 보물섬 https://www.acmicpc.net/problem/2589  
+* S5 7785 회사에있는사람 https://www.acmicpc.net/problem/7785  
+* G4 4485 녹색옷입은애가젤다지? https://www.acmicpc.net/problem/4485  
+* S1 1697 숨바꼭질 https://www.acmicpc.net/problem/1697  
+* G4 13913 숨바꼭질4 https://www.acmicpc.net/problem/13913  
+* S3 14889 스타트와링크 https://www.acmicpc.net/problem/14889  
+* 퇴사
