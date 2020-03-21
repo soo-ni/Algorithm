@@ -1,7 +1,7 @@
 # BOJ
 
 ### 0318  
-* G5 11559 https://www.acmicpc.net/problem/11559  
+* G5 11559 뿌요뿌요 https://www.acmicpc.net/problem/11559  
 ---
 ### 0318  
 * Retry G4 2580 스도쿠 https://www.acmicpc.net/problem/2580  
