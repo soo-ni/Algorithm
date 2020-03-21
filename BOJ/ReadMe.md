@@ -1,6 +1,6 @@
 # BOJ
 
-### 0318  
+### 0321  
 * G5 11559 뿌요뿌요 https://www.acmicpc.net/problem/11559  
 ---
 ### 0318  
