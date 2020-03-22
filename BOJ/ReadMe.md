@@ -2,6 +2,8 @@
 
 ### 0322  
 * G3 17822 원판돌리기 https://www.acmicpc.net/problem/17822  
+* G4 17142 연구소3 https://www.acmicpc.net/problem/17142 => 시간줄여야됨  
+* ~~G2 17825 주사위윷놀이 https://www.acmicpc.net/problem/17825~~  
 ---
 ### 0321  
 * G5 11559 뿌요뿌요 https://www.acmicpc.net/problem/11559  
