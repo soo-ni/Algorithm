@@ -1,5 +1,12 @@
 # BOJ
 
+### 0326  
+* G2 17837 새로운게임2 https://www.acmicpc.net/problem/17837  
+* S2 2606 바이러스 https://www.acmicpc.net/problem/2606  
+---
+### 0324  
+* ~~G2 17837 새로운게임2 https://www.acmicpc.net/problem/17837~~  
+---
 ### 0323  
 * G4 17779 게리맨더링2 https://www.acmicpc.net/problem/17779  
 ---
