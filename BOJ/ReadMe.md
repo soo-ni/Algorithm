@@ -2,7 +2,8 @@
 
 ### 0326  
 * G2 17837 새로운게임2 https://www.acmicpc.net/problem/17837 => 다시풀기  
-* S2 2606 바이러스 https://www.acmicpc.net/problem/2606  
+* S2 2606 바이러스 https://www.acmicpc.net/problem/2606 
+* Retry G4 17142 연구소3 https://www.acmicpc.net/problem/17142 => ~~시간줄여야됨~~ 성공~!  
 ---
 ### 0324  
 * ~~G2 17837 새로운게임2 https://www.acmicpc.net/problem/17837~~  
@@ -12,7 +13,7 @@
 ---
 ### 0322  
 * G3 17822 원판돌리기 https://www.acmicpc.net/problem/17822  
-* G4 17142 연구소3 https://www.acmicpc.net/problem/17142 => 시간줄여야됨  
+* G4 17142 연구소3 https://www.acmicpc.net/problem/17142 => ~~시간줄여야됨~~ 0326에 성공~!  
 * ~~G2 17825 주사위윷놀이 https://www.acmicpc.net/problem/17825~~  
 ---
 ### 0321  
