@@ -4,6 +4,7 @@
 * G2 17837 새로운게임2 https://www.acmicpc.net/problem/17837 => 다시풀기  
 * S2 2606 바이러스 https://www.acmicpc.net/problem/2606 
 * Retry G4 17142 연구소3 https://www.acmicpc.net/problem/17142 => ~~시간줄여야됨~~ 성공~!  
+* ~~G5 8895 막대배치 https://www.acmicpc.net/problem/8895~~  
 ---
 ### 0324  
 * ~~G2 17837 새로운게임2 https://www.acmicpc.net/problem/17837~~  
