@@ -1,7 +1,8 @@
 /**
-* 37,176 kb
-* 242 ms
+* 34,408 kb
+* 118 ms
 * 죽고싶었다..ㅠ
+*
 */
 
 package ssafy;
@@ -70,3 +71,4 @@ public class Solution_D3_5607_조합 {
 //		return memo[n];
 //	}
 }
+
