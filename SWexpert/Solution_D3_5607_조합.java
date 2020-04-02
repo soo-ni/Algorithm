@@ -30,7 +30,13 @@ public class Solution_D3_5607_조합 {
          st = new StringTokenizer(br.readLine(), " ");
          N = Integer.parseInt(st.nextToken());   // n (nCr)
          R = Integer.parseInt(st.nextToken());   // r (nCr)
-          
+         
+         /**
+          * 페르마의 소정리 이용
+          * B^-1 = B^(P-2)
+          * A*B^(P-2) = (n!)*(r!(n-r)!)^(P-2) % P
+          *   
+          */
          long ans = 0;
          long A = memo[N]%P;
          long B = power(memo[R], P-2)%P;
