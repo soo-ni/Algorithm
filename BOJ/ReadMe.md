@@ -1,5 +1,8 @@
 # BOJ
 
+### 0407
+* G4 3980 선발명단 https://www.acmicpc.net/problem/3980  
+---
 ### 0326  
 * G2 17837 새로운게임2 https://www.acmicpc.net/problem/17837 => 다시풀기  
 * S2 2606 바이러스 https://www.acmicpc.net/problem/2606 
