@@ -1,5 +1,8 @@
 # BOJ
 
+### 0408
+* G4 1922 네트워크연결 https://www.acmicpc.net/problem/1922  
+---
 ### 0407
 * G4 3980 선발명단 https://www.acmicpc.net/problem/3980  
 ---
