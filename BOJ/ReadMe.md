@@ -1,7 +1,9 @@
 # BOJ
 
 ### 0409
-* G5 17070 파이프옮기기1 https://www.acmicpc.net/problem/17070  
+* G4 17070 파이프옮기기1 https://www.acmicpc.net/problem/17070  
+* G5 14502 연구소 https://www.acmicpc.net/problem/14502  
+* G4 1197 최소스패닝트리 https://www.acmicpc.net/problem/1197  
 ---
 ### 0408
 * G4 1922 네트워크연결 https://www.acmicpc.net/problem/1922  
