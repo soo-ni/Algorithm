@@ -1,8 +1,8 @@
 /**
  * 50464 kb	
- * 628 ms
+ * 628 ms -> 608ms
  * using Kruskal
- * 
+ * using Integer.compare(,); 쓰면 오버플로우 안남!
  */
 
 package study;
@@ -78,14 +78,15 @@ public class Main_B_1197_최소스패닝트리 {
 			// 2. 음수 양수
 			// 3. 양수 양수
 			// 4. 양수 음수
-			int result=0;
-			if(this.w<0 && o.w<0) result=(Math.abs(this.w)-Math.abs(o.w))*-1;
-			if(this.w<0 && o.w>0) result=-1;
-			if(this.w>0 && o.w>0) result=this.w-o.w;
-			if(this.w>0 && o.w<0) result=1;
-			if(this.w==0) result=-1*o.w;
-			if(o.w==0) result=this.w;
-			return result;
+//			int result=0;
+//			if(this.w<0 && o.w<0) result=(Math.abs(this.w)-Math.abs(o.w))*-1;
+//			if(this.w<0 && o.w>0) result=-1;
+//			if(this.w>0 && o.w>0) result=this.w-o.w;
+//			if(this.w>0 && o.w<0) result=1;
+//			if(this.w==0) result=-1*o.w;
+//			if(o.w==0) result=this.w;
+//			return result;
+			return Integer.compare(this.w, o.w);
 		}
 	}
 }
