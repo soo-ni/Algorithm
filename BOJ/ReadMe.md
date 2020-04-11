@@ -1,5 +1,8 @@
 # BOJ
 
+### 0411
+* G2 1786 찾기 ~~https://www.acmicpc.net/problem/1786~~ => using KMP 다시풀기!  
+---
 ### 0409
 * G4 17070 파이프옮기기1 https://www.acmicpc.net/problem/17070  
 * G5 14502 연구소 https://www.acmicpc.net/problem/14502  
