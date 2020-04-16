@@ -5,6 +5,9 @@
 * G4 2206 벽부수고이동하기 https://www.acmicpc.net/problem/2206 retry  
 * G4 11404 플로이드 https://www.acmicpc.net/problem/11404  
 * S1 2156 포도주시식 https://www.acmicpc.net/problem/2156  
+* S3 11727 2n타일링2 https://www.acmicpc.net/problem/11727  
+* S3 2579 계단오르기 https://www.acmicpc.net/problem/2579  
+**dp Runtime error: N=1일 때 항상 확인!!**
 ---
 ### 0413
 * G4 2206 벽부수고이동하기 ~~https://www.acmicpc.net/problem/2206~~ => 다시풀기! => 0416성공  
