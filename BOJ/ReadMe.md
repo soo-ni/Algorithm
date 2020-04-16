@@ -1,5 +1,12 @@
 # BOJ
 
+### 0416
+* G5 2636 치즈 ~~https://www.acmicpc.net/problem/2636~~ => 다시풀기ㅠ  
+* G4 2206 벽부수고이동하기 https://www.acmicpc.net/problem/2206 retry  
+---
+### 0413
+* G4 2206 벽부수고이동하기 ~~https://www.acmicpc.net/problem/2206~~ => 다시풀기! => 0416성공  
+---
 ### 0411
 * G2 1786 찾기 ~~https://www.acmicpc.net/problem/1786~~ => using KMP 다시풀기!  
 ---
