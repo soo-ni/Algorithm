@@ -2,6 +2,7 @@
 
 ### 0417
 * G4 1062 가르침 https://www.acmicpc.net/problem/1062  
+* G1 5373 큐빙 https://www.acmicpc.net/problem/5373 => 전개도 보기  
 ---
 ### 0416
 * G5 2636 치즈 ~~https://www.acmicpc.net/problem/2636~~ => 다시풀기ㅠ  
