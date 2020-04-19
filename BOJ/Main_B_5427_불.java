@@ -104,7 +104,7 @@ public class Main_B_5427_불 {
 				ny = current.y+dy[i];
 				
 				if(nx<0||ny<0||nx>h-1||ny>w-1) continue;
-				if(map[nx][ny]=='.') {
+				if(map[nx][ny]=='.' || map[nx][ny]=='@') {	// @일때도 해줘야됨 ㅠㅠ
 					queueFire.add(new Point(nx, ny, 0));
 					map[nx][ny] = '*';
 				}
