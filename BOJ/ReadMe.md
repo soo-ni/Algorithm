@@ -1,5 +1,8 @@
 # BOJ
 
+### 0419
+* G4 5427 불 https://www.acmicpc.net/problem/5427 
+---
 ### 0418
 * G3 17472 다리만들기2 https://www.acmicpc.net/problem/17472  
 ---
