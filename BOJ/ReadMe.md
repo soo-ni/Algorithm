@@ -1,5 +1,10 @@
 # BOJ
 
+### 0502
+* G4 17140 이차원배열과연산 https://www.acmicpc.net/problem/17140  
+* G5 1600 말이되고픈원숭이 https://www.acmicpc.net/problem/1600  
+* G5 16235 나무재테크 https://www.acmicpc.net/problem/16235  
+---
 ### 0428
 * ~~G5 5557 1학년 https://www.acmicpc.net/problem/5557~~ 답봄 다시풀기!  
 ---
