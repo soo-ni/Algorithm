@@ -1,5 +1,8 @@
 # SW Expert Academy
 
+### 0502
+* D4 1227 미로2<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE&&&  
+---
 ### 0501
 * D4 4366 정식이의 은행업무<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd  
 ---
