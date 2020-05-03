@@ -1,7 +1,8 @@
 # BOJ
 
 ### 0503
-* G2 12100 2048Easy https://www.acmicpc.net/problem/12100 => 200ms로 줄여야됨 (어케?)  
+* G2 12100 2048Easy https://www.acmicpc.net/problem/12100 => 200ms로 줄여야됨 (어케?)
+* G5 1759 암호만들기 https://www.acmicpc.net/problem/1759  
 ---
 ### 0502
 * G4 17140 이차원배열과연산 https://www.acmicpc.net/problem/17140  
