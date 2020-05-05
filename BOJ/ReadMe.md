@@ -3,7 +3,7 @@
 ### 0505
 * G4 1563 개근상 https://www.acmicpc.net/problem/1563  
 * G4 1520 내리막길 https://www.acmicpc.net/problem/1520  
---
+---
 ### 0503
 * G2 12100 2048Easy https://www.acmicpc.net/problem/12100 => 200ms로 줄여야됨 (어케?)
 * G5 1759 암호만들기 https://www.acmicpc.net/problem/1759  
