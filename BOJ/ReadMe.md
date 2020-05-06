@@ -1,5 +1,9 @@
 # BOJ
 
+### 0506
+* S3 6987 월드컵 https://www.acmicpc.net/problem/6987  
+* G3 2146 다리만들기 https://www.acmicpc.net/problem/2146  
+---
 ### 0505
 * G4 1563 개근상 https://www.acmicpc.net/problem/1563  
 * G4 1520 내리막길 https://www.acmicpc.net/problem/1520  
