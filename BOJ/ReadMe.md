@@ -7,7 +7,8 @@
 * S3 6987 월드컵 https://www.acmicpc.net/problem/6987  
 * G3 2146 다리만들기 https://www.acmicpc.net/problem/2146  
 * G4 1504 특정한최단경로 https://www.acmicpc.net/problem/1504  
-  * 다익스트라, 플로이드
+  * 다익스트라
+  * 플로이드
 ---
 ### 0505
 * G4 1563 개근상 https://www.acmicpc.net/problem/1563  
@@ -59,7 +60,7 @@
 * G4 17070 파이프옮기기1 https://www.acmicpc.net/problem/17070  
 * G5 14502 연구소 https://www.acmicpc.net/problem/14502  
 * G4 1197 최소스패닝트리 https://www.acmicpc.net/problem/1197  
-** Integer.compare(a, b); // 오버플로우 
+  * Integer.compare(a, b); // 오버플로우 
 ---
 ### 0408
 * G4 1922 네트워크연결 https://www.acmicpc.net/problem/1922  
