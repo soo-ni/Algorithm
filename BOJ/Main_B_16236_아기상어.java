@@ -1,6 +1,6 @@
 /**
  * 13440 kb	
- * 88 ms
+ * 94 ms
  * using BFS
  * 
  */
@@ -13,7 +13,7 @@ import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Main_B_16236_아기상어2 {
+public class Main_B_16236_아기상어 {
 
 	static int N, row, col, size, distance, eat;
 	static int[][] map;
@@ -62,7 +62,7 @@ public class Main_B_16236_아기상어2 {
 //				System.out.println(x+" "+y+" "+dis);
 				row=x; col=y;
 				map[x][y]=0;
-				distance=dis;
+				distance+=dis;
 				eat++;
 				if(eat==size) {
 					size++; eat=0; 
@@ -76,6 +76,7 @@ public class Main_B_16236_아기상어2 {
 					}
 				}
 				visited[row][col]=true;
+				continue;	// continue 안해주면 distance누적이 아닌 그냥 distance=dis; 하면됨
 			}
 			
 			for(int i=0; i<4; i++) {
