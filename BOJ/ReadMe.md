@@ -6,6 +6,8 @@
 ### 0506
 * S3 6987 월드컵 https://www.acmicpc.net/problem/6987  
 * G3 2146 다리만들기 https://www.acmicpc.net/problem/2146  
+* G4 1504 특정한최단경로 https://www.acmicpc.net/problem/1504  
+** 다익스트라, 플로이드
 ---
 ### 0505
 * G4 1563 개근상 https://www.acmicpc.net/problem/1563  
