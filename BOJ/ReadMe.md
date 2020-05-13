@@ -1,5 +1,8 @@
 # BOJ
 
+### 0513
+* G2 2252 줄세우기 https://www.acmicpc.net/problem/2252  
+---
 ### 0507
 * G5 16236 아기상어 https://www.acmicpc.net/problem/16236  
 ---
