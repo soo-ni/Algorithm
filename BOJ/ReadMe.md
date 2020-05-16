@@ -1,5 +1,9 @@
 # BOJ
 
+### 0516
+* G1 1194 달이차오른다가자 https://www.acmicpc.net/problem/1194  
+* G3 14890 경사로 https://www.acmicpc.net/problem/14890  
+---
 ### 0513
 * G2 2252 줄세우기 https://www.acmicpc.net/problem/2252  
 ---
