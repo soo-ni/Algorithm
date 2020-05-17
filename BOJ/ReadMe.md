@@ -1,5 +1,9 @@
 # BOJ
 
+### 0517
+* G1 1113 수영장만들기 https://www.acmicpc.net/problem/1113  
+* S2 15486 퇴사2 https://www.acmicpc.net/problem/15486  
+---
 ### 0516
 * G1 1194 달이차오른다가자 https://www.acmicpc.net/problem/1194  
 * G3 14890 경사로 https://www.acmicpc.net/problem/14890  
