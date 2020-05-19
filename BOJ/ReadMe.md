@@ -1,5 +1,8 @@
 # BOJ
 
+### 0519
+* G5 1916 최소비용구하기 https://www.acmicpc.net/problem/1916  
+---
 ### 0518
 * G3 15997 승부예측 https://www.acmicpc.net/problem/15997  
 ---
