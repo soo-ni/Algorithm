@@ -4,6 +4,7 @@
 * G5 1916 최소비용구하기 https://www.acmicpc.net/problem/1916 => 다시풀어봄~!  
 * G4 1261 알고스팟 https://www.acmicpc.net/problem/1261  
 * G3 6593 상범빌딩 https://www.acmicpc.net/problem/6593  
+---
 ### 0520
 * G1 3025 돌던지기
 ---
