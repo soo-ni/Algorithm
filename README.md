@@ -1,1 +1,1 @@
-# Algorithm
+# Sooni's Algorithm
