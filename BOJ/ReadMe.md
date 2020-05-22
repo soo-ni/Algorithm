@@ -1,7 +1,7 @@
 # BOJ
  
 ### 0521
-* G5 1916 최소비용구하기 https://www.acmicpc.net/problem/1916 => 다시풀어봄~!  
+* G5 1916 [최소비용구하기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1916_최소비용구하기.java) https://www.acmicpc.net/problem/1916 => 다시풀어봄~!  
 * G4 1261 알고스팟 https://www.acmicpc.net/problem/1261  
 * G3 6593 상범빌딩 https://www.acmicpc.net/problem/6593  
 ---
@@ -63,7 +63,7 @@
 * G3 17472 다리만들기2 https://www.acmicpc.net/problem/17472  
 ---
 ### 0417
-* G4 1062 [가르침](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1062_%EA%B0%80%EB%A5%B4%EC%B9%A8.java) https://www.acmicpc.net/problem/1062)  
+* G4 1062 [가르침](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1062_%EA%B0%80%EB%A5%B4%EC%B9%A8.java) https://www.acmicpc.net/problem/1062  
 * G1 5373 큐빙 https://www.acmicpc.net/problem/5373 => 전개도 보기  
 ---
 ### 0416
