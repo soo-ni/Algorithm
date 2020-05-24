@@ -1,5 +1,10 @@
 # BOJ
- 
+
+### 0524
+* S1 1012 [유기농배추](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1012_유기농배추.java) https://www.acmicpc.net/problem/1012  
+* G4 1987 [알파벳](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1987_알파벳.java) https://www.acmicpc.net/problem/1987  
+* G5 10026 [적록색약](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_10026_적록색약.java) https://www.acmicpc.net/problem/10026
+---
 ### 0523
 * G4 2573 [빙산](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2573_빙산.java) https://www.acmicpc.net/problem/2573 
 * G5 9466 [텀프로젝트](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_9466_텀프로젝트.java) https://www.acmicpc.net/problem/9466 
