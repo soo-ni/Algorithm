@@ -1,5 +1,9 @@
 # BOJ
  
+### 0523
+* G4 2573 [빙산](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2573_빙산.java) https://www.acmicpc.net/problem/2573 
+* G5 9466 [텀프로젝트](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_9466_텀프로젝트.java) https://www.acmicpc.net/problem/9466 
+---
 ### 0521
 * G5 1916 [최소비용구하기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1916_최소비용구하기.java) https://www.acmicpc.net/problem/1916 => 다시풀어봄~!  
 * G4 1261 알고스팟 https://www.acmicpc.net/problem/1261  
