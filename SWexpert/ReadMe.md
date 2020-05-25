@@ -1,5 +1,8 @@
 # SW Expert Academy
 
+### 0525
+* 모의 2477 차량정비소<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy
+---
 ### 0524
 * 모의 2382 미생물격리<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE  
 * 모의 1953 탈주범검거<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE  
