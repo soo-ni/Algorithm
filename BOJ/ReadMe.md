@@ -1,5 +1,8 @@
 # BOJ
 
+### 0525
+* G5 1405 [미친로봇](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1405_미친로봇.java) https://www.acmicpc.net/problem/1405  
+---
 ### 0524
 * S1 1012 [유기농배추](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1012_유기농배추.java) https://www.acmicpc.net/problem/1012  
 * G4 1987 [알파벳](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1987_알파벳.java) https://www.acmicpc.net/problem/1987  
