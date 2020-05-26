@@ -1,5 +1,8 @@
 # SW Expert Academy
 
+### 0526
+* 모의 2383 점심식사시간<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl
+---
 ### 0525
 * 모의 2477 차량정비소<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy
 ---
