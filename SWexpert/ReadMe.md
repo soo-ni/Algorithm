@@ -1,5 +1,9 @@
 # SW Expert Academy
 
+### 0527
+* 모의 2117 홈방범서비스<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu  
+* 모의 2112 보호필름<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu
+---
 ### 0526
 * 모의 2383 점심식사시간<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl
 ---
