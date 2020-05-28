@@ -1,5 +1,9 @@
 # SW Expert Academy
 
+### 0528
+* 모의 4014 활주로<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE  
+* 모의 1953 탈주범검거<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE => **방향 전환**  
+---
 ### 0527
 * 모의 2117 홈방범서비스<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu  
 * 모의 2112 보호필름<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu
