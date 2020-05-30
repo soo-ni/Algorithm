@@ -1,5 +1,8 @@
 # BOJ
 
+### 0530
+* G5 2668 [숫자고르기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2668_숫자고르기.java) https://www.acmicpc.net/problem/2668  
+---
 ### 0526
 * G4 11657 [타임머신](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_11657_타임머신.java) https://www.acmicpc.net/problem/11657  
 ---
