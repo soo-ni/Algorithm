@@ -1,5 +1,7 @@
 # SW Expert Academy
 
+### 0604
+* 모의 5656 벽돌깨기<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo
 ### 0530
 * 모의 4012 요리사<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE
 * 모의 4008 숫자만들기<br>https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH&categoryId=AWIeRZV6kBUDFAVH&categoryType=CODE
