@@ -1,5 +1,11 @@
 # BOJ
 
+### 0825
+* G4 2638 [치즈](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_2638_치즈.java) https://www.acmicpc.net/problem/2638
+---
+### 0824
+* G5 3967 [매직스타](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_3967_매직스타.java) https://www.acmicpc.net/problem/3967
+---
 ### 0530
 * G5 2668 [숫자고르기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2668_숫자고르기.java) https://www.acmicpc.net/problem/2668  
 ---
