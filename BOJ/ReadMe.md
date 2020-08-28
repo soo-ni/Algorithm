@@ -1,5 +1,8 @@
 # BOJ
 
+### 0828
+* G5 9207 [페그솔리테어](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_9207_페그솔리테어.java) https://www.acmicpc.net/problem/9207
+---
 ### 0827
 * G4 2234 [성곽](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_2234_성곽.java) https://www.acmicpc.net/problem/2234
 ---
