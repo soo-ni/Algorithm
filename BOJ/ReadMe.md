@@ -5,7 +5,8 @@
 * G3 2931 [가스관](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2931_가스관.java) https://www.acmicpc.net/problem/ 2931
 ---
 ### 0829
-* G5 1038 [감소하는수](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1038_감소하는수.java) https://www.acmicpc.net/problem/1038
+* ~~G5 1038 [감소하는수](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1038_감소하는수.java)~~ https://www.acmicpc.net/problem/1038 
+=> 다시풀기~!
 ---
 ### 0828
 * G5 9207 [페그솔리테어](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_9207_페그솔리테어.java) https://www.acmicpc.net/problem/9207
