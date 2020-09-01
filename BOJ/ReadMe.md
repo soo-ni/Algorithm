@@ -1,7 +1,10 @@
 # BOJ
 
+### 0901
+* G5 14499 [주사위 굴리기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14499_주사위굴리기.java) https://www.acmicpc.net/problem/14499
+---
 ### 0830
-* G5 13023 [감소하는수](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_13023_ABCDE.java) https://www.acmicpc.net/problem/13023
+* G5 13023 [ABCDE](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_13023_ABCDE.java) https://www.acmicpc.net/problem/13023
 * G3 2931 [가스관](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2931_가스관.java) https://www.acmicpc.net/problem/ 2931
 ---
 ### 0829
