@@ -2,8 +2,9 @@
 
 ### 0903
 * G3 2933 https://www.acmicpc.net/problem/2933
-  * [미네랄: 되는데로](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2933_미네랄.java) 
+  * [미네랄: 되는데로푼 코드](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2933_미네랄.java) 
   * [미네랄: 정리된 코드](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2933_미네랄2.java)
+---
 ### 0902
 * G4 1726 [로봇](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1726_로봇.java) https://www.acmicpc.net/problem/1726
 ---
