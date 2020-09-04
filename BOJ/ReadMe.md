@@ -1,5 +1,8 @@
 # BOJ
 
+### 0904
+* G4 14923 [미로탈출](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14923_미로탈출.java) https://www.acmicpc.net/problem/14923
+---
 ### 0903
 * G3 2933 https://www.acmicpc.net/problem/2933
   * [미네랄: 되는데로푼 코드](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2933_미네랄.java) 
