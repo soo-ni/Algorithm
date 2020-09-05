@@ -1,5 +1,8 @@
 # BOJ
 
+### 0905
+* G5 14923 [목장건설하기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14925_목장건설하기.java) https://www.acmicpc.net/problem/14925
+---
 ### 0904
 * G4 14923 [미로탈출](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14923_미로탈출.java) https://www.acmicpc.net/problem/14923
 ---
