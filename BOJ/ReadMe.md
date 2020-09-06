@@ -1,5 +1,8 @@
 # BOJ
 
+### 0906
+* G5 9251 [LCS](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_9251_LCS.java) https://www.acmicpc.net/problem/9251
+---
 ### 0905
 * G5 14923 [목장건설하기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14925_목장건설하기.java) https://www.acmicpc.net/problem/14925
 ---
