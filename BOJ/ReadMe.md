@@ -1,5 +1,9 @@
 # BOJ
 
+### 0907
+* G3 9944 [NxM보드완주하기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_9944_NxM보드완주하기.java) https://www.acmicpc.net/problem/9944
+* G3 14442 [벽부수고이동하기2](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14442_벽부수고이동하기2.java) https://www.acmicpc.net/problem/14442
+---
 ### 0906
 * G5 9251 [LCS](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_9251_LCS.java) https://www.acmicpc.net/problem/9251
 ---
