@@ -1,5 +1,8 @@
 # BOJ
 
+### 0908
+* G3 1938 [통나무옮기기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1938_통나무옮기기.java) https://www.acmicpc.net/problem/1938
+---
 ### 0907
 * G3 9944 [NxM보드완주하기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_9944_NxM보드완주하기.java) https://www.acmicpc.net/problem/9944
 * G3 14442 [벽부수고이동하기2](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14442_벽부수고이동하기2.java) https://www.acmicpc.net/problem/14442
