@@ -1,5 +1,8 @@
 # Programmers
 
+### 0916
+* L2 [오픈채팅방](https://github.com/soo-ni/Algorithm/blob/master/Programmers/Solution_오픈채팅방.java) https://programmers.co.kr/learn/courses/30/lessons/42888
+---
 ### 0911
 * L3 [외벽점검](https://github.com/soo-ni/Algorithm/blob/master/Programmers/Solution_외벽점검.java) https://programmers.co.kr/learn/courses/30/lessons/60062
 ---
