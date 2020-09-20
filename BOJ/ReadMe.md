@@ -1,5 +1,8 @@
 # BOJ
 
+### 0920
+* G3 1941 [소문난칠공주](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1941_소문난칠공주_retry.java) https://www.acmicpc.net/problem/1941
+---
 ### 0919
 * G3 17136 [색종이붙이기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_17136_색종이붙이기.java) https://www.acmicpc.net/problem/17136
 ---
