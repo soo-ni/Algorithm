@@ -1,5 +1,11 @@
 # BOJ
 
+### 1014
+* G1 1103 [게임](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1103_게임.java) https://www.acmicpc.net/problem/1103
+---
+### 1013
+* G4 6087 [레이저통신](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_6087_레이저통신.java) https://www.acmicpc.net/problem/6087
+---
 ### 0920
 * G3 1941 [소문난칠공주](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1941_소문난칠공주_retry.java) https://www.acmicpc.net/problem/1941
 ---
