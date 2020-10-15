@@ -1,5 +1,8 @@
 # BOJ
 
+### 1015
+* S2 2210 [숫자점프](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2210_숫자점프.java) https://www.acmicpc.net/problem/2210
+---
 ### 1014
 * G1 1103 [게임](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1103_게임.java) https://www.acmicpc.net/problem/1103
 ---
