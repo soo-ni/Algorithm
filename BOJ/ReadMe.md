@@ -1,5 +1,8 @@
 # BOJ
 
+### 1017
+* S2 3184 [양](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_3184_양.java) https://www.acmicpc.net/problem/3184
+---
 ### 1016
 * S2 1890 [점프](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1890_점프.java) https://www.acmicpc.net/problem/1890
 ---
