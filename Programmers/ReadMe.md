@@ -1,5 +1,8 @@
 # Programmers
 
+### 1019
+* L3 [단속카메라](https://github.com/soo-ni/Algorithm/blob/master/Programmers/Solution_단속카메라.java) https://programmers.co.kr/learn/courses/30/lessons/42884
+---
 ### 0916
 * L2 [오픈채팅방](https://github.com/soo-ni/Algorithm/blob/master/Programmers/Solution_오픈채팅방.java) https://programmers.co.kr/learn/courses/30/lessons/42888
 ---
