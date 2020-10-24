@@ -1,7 +1,12 @@
 # BOJ
 
+### 1024
+* G3 1484 [다이어트](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1484_다이어트.java) https://www.acmicpc.net/problem/1484
+---
 ### 1023
 * G5 2470 [두용액](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2470_두용액.java) https://www.acmicpc.net/problem/2470
+* S3 2003 [수들의합2](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2003_수들의합2.java) https://www.acmicpc.net/problem/2003
+* G5 2230 [수고르기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_2230_수고르기.java) https://www.acmicpc.net/problem/2230
 ---
 ### 1017
 * S2 3184 [양](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_3184_양.java) https://www.acmicpc.net/problem/3184
