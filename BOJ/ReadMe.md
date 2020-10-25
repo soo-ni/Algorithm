@@ -1,5 +1,8 @@
 # BOJ
 
+### 1025
+* S1 1149 [RGB거리](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1149_RGB거리.java) https://www.acmicpc.net/problem/1149
+---
 ### 1024
 * G3 1484 [다이어트](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1484_다이어트.java) https://www.acmicpc.net/problem/1484
 ---
