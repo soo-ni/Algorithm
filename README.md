@@ -22,6 +22,9 @@
 
 ---
 ## 📚 BOJ
+### 1031
+* G5 14728 [벼락치기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14728_벼락치기.java) https://www.acmicpc.net/problem/14728
+---
 ### 1028
 * G5 1915 [가장큰정사각형](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1915_가장큰정사각형.java) https://www.acmicpc.net/problem/1915
 ---
