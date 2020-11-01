@@ -22,6 +22,9 @@
 
 ---
 ## 📚 BOJ
+### 1101
+* G3 1644 [소수의연속합](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1644_소수의연속합.java) https://www.acmicpc.net/problem/1644
+---
 ### 1031
 * G5 14728 [벼락치기](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_14728_벼락치기.java) https://www.acmicpc.net/problem/14728
 ---
