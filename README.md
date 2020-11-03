@@ -22,6 +22,9 @@
 
 ---
 ## 📚 BOJ
+### 1103
+* G3 1806 [부분합](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1806_부분합.java) https://www.acmicpc.net/problem/1806
+---
 ### 1101
 * G3 1644 [소수의연속합](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1644_소수의연속합.java) https://www.acmicpc.net/problem/1644
 ---
