@@ -22,8 +22,12 @@
 
 ---
 ## 📚 BOJ
+### 1214
+* G5 17836 [공주님을구해라](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_17836_공주님을구해라.java) https://www.acmicpc.net/problem/17836
+* G3 17244 [아맞다우산](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_17244_아맞다우산.java) https://www.acmicpc.net/problem/17244
+---
 ### 1210
-* G3 19237 [](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_19237_어른상어.java) https://www.acmicpc.net/problem/19237
+* G3 19237 [어른상어](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_19237_어른상어.java) https://www.acmicpc.net/problem/19237
 ---
 ### 1103
 * G3 1806 [부분합](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_1806_부분합.java) https://www.acmicpc.net/problem/1806
