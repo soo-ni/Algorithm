@@ -289,6 +289,7 @@
 
 ### 0105
 * L3 [정수삼각형](https://github.com/soo-ni/Algorithm/blob/master/Programmers/Solution_정수삼각형.java) https://programmers.co.kr/learn/courses/30/lessons/43105
+* L3 [등굣길](https://github.com/soo-ni/Algorithm/blob/master/Programmers/Solution_등굣길.java) https://programmers.co.kr/learn/courses/30/lessons/42898
 ---
 ### 0104
 * L3 [N으로 표현](https://github.com/soo-ni/Algorithm/blob/master/Programmers/Solution_N으로 표현.java) https://programmers.co.kr/learn/courses/30/lessons/42895
