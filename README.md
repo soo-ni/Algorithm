@@ -22,6 +22,9 @@
 
 ---
 ## 📚 BOJ
+### 0325
+* G5 1747 [소수&팰린드롬](https://github.com/soo-ni/Algorithm/blob/master/BOJ/boj_1747_소수n팰린드롬.java) https://www.acmicpc.net/problem/1747
+---
 ### 1214
 * G5 17836 [공주님을구해라](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_17836_공주님을구해라.java) https://www.acmicpc.net/problem/17836
 * G3 17244 [아맞다우산](https://github.com/soo-ni/Algorithm/blob/master/BOJ/Main_B_17244_아맞다우산.java) https://www.acmicpc.net/problem/17244
